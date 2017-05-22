@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_9959af7cd4d0051e684b51eb713c22da26432809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/okio-1.8.0_1f1b982738e8c041dd6feee2510803572bd51ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_072a8d4b92334be2da75d4fa74287aeac061fc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.2/df90a91dbb9a7d942361a5613b1666e38dca4844/rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/rxjava-1.1.2_53759a73c6800e0ead668d105ccbcf706dc2157d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Android_SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d8124077c97434d25a98c860d7f538ec9d623144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_c3fb711282e6a963797dc411b4225682d7284b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7a388d769abd349bad111502c7b79a8e3e66b66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_e19fcd1b383aec9347689e48a5153b7d760ec30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_89dc659caf1f68e05bcd906e87e6aed383faf8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a5b3e6f011d6059b84128d5c51154546f18b6025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_ac8b5a03b6c4baa15e5e447cc6441abbebaabe60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_2dbc456b2e9427c9d5f48c3e16d7d793bbe77d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_84863bf985a02265623507789b6d9499eb845579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/gson-2.7_2342a637237b7b17e3f9bd2f01092201ee3c910f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_78fc77ecf1eb4401269fc26094846e4dad5cb7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_82bde6e802340ff64ddf3a39014313162786c82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_b07ea771133df088051f90a0e66925144b1f3f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/javax.inject-1_051f89fc3371bb374cf6f90d5f9cdef4b3e04f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_d706f883d9b321a6a2ccc34872681cc900e75e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/denabelarde/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/Users/denabelarde/Documents/Repositories/DaggerMVP-Tutorial/app/build/intermediates/pre-dexed/debug/dagger-2.2_9e8ed73b1d16e92cc4751d623a319e0d7d5f76c2.jar" />
+    </item>
+
+</items>
